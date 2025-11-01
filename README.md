@@ -1,5 +1,5 @@
 
-Full-stack developer working with React, Next.js, Node.js, nestjs, MongoDB, PostgresSQL, and TypeScript.  
+Full-stack developer working with React, Next.js, Node.js, Nestjs, MongoDB, PostgresSQL, and TypeScript.  
 Interested in DevOps, Cloud, and solving real-world problems with code.
 
 <p >
