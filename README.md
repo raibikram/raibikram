@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Bikram Rai
-Backend Software Engineer working with Node.js and NestJS, building scalable APIs and reliable backend systems. Experienced with PostgreSQL, MongoDB, Redis, BullMQ, and RabbitMQ, and applying DevOps practices like Docker, CI/CD, and cloud deployments. Continuously learning system design to improve scalability, reliability, and maintainability of backend systems.
+Backend software engineer working with Node.js and NestJS, building scalable APIs and reliable backend systems. Experienced with PostgreSQL, MongoDB, Redis, BullMQ, and RabbitMQ, and applying DevOps practices like Docker, CI/CD, and cloud deployments. Continuously learning system design to improve the scalability, reliability, and maintainability of backend systems.
 ---
 
 ### 📊 GitHub Stats
