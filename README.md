@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Bikram Rai
-
-Full-stack developer working with **React**, **Next.js**, **Node.js**, **NestJS**, **MongoDB**, **PostgreSQL**, and **TypeScript**.  
-Passionate about **DevOps**, **Cloud**, and solving real-world problems with code.
+Backend Software Engineer working with Node.js and NestJS, building scalable and reliable backend systems with well-structured APIs and robust data handling. Experienced with PostgreSQL and MongoDB for databases, Redis for caching, and BullMQ and RabbitMQ for background jobs and message queues. Actively learning system design and applying DevOps practices such as Docker, CI/CD, and cloud deployments to deliver production-ready systems.
 
 ---
 
